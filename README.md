@@ -1,11 +1,13 @@
-# CRM - Customer Relationship Managment
+# CRM - Customer Relationship Management System 🤝📊
 
 Simple CRM system, made as a final project for Java coding bootcamp in CodersLab.
 
 Technologies used: Java 8, Spring Boot, Spring MVC, Spring Data, Hibernate, Spring Security, MySQL, Multithreading, JUnit and Thymeleaf.
 Libraries used: Lombok, OpenCSV,  iText
 
-Note: in this project a free bootstrap templete [Vali Admin](https://github.com/pratikborsadiya/vali-admin) is used.
+## Overview
+
+The CRM system is a powerful tool that enables businesses to streamline their customer-related processes. It includes features such as customer data management, communication tracking, task management, and reporting.
 
 ## Main features:
 - User roles: employee, manager, owner and admin
@@ -18,6 +20,18 @@ Note: in this project a free bootstrap templete [Vali Admin](https://github.com/
 - Accepting contracts depending on contract value and user role
 - Printing PDF files
 - Adding events with client
+  
+## Modules
+
+- **Sales Module:**
+  - Track leads, opportunities, and sales activities.
+
+- **Marketing Module:**
+  - Plan and execute marketing campaigns, track leads generated, and measure campaign effectiveness.
+
+- **Support Module:**
+  - Manage customer support tickets, track resolution times, and analyze support performance.
+
 - Generating notifications for today's events
 - API for clients
 
