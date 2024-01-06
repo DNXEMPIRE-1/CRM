@@ -35,6 +35,4 @@ The CRM system is a powerful tool that enables businesses to streamline their cu
 - Generating notifications for today's events
 - API for clients
 
-## Authors
 
-Katarzyna Machowina - [machowina](https://github.com/machowina)
